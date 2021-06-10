@@ -77,3 +77,7 @@ D:\CoforgeTechDotNetTraining\Day-46\Exercise 2\WebGitEx\obj\Debug\WebGitEx.cspro
 D:\CoforgeTechDotNetTraining\Day-46\Exercise 2\WebGitEx\obj\Debug\WebGitEx.csproj.CopyComplete
 D:\CoforgeTechDotNetTraining\Day-46\Exercise 2\WebGitEx\obj\Debug\WebGitEx.dll
 D:\CoforgeTechDotNetTraining\Day-46\Exercise 2\WebGitEx\obj\Debug\WebGitEx.pdb
+D:\CoforgeTechDotNetTraining\Day-46\Exercise 2\WebGitEx\bin\EntityFramework.dll
+D:\CoforgeTechDotNetTraining\Day-46\Exercise 2\WebGitEx\bin\EntityFramework.SqlServer.dll
+D:\CoforgeTechDotNetTraining\Day-46\Exercise 2\WebGitEx\bin\EntityFramework.xml
+D:\CoforgeTechDotNetTraining\Day-46\Exercise 2\WebGitEx\bin\EntityFramework.SqlServer.xml
